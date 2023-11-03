@@ -66,6 +66,11 @@ function countTrue(arr) {
 function findPerimeter(length, width) {
 	return (length*2) + (width*2)
 }
+//Return the Remainder from Two Numbers
+function remainder(x, y) {
+	return x % y
+}
+
 
 
 
